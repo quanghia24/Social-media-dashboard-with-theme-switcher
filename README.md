@@ -11,7 +11,7 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
-- 
+  
 ## Overview
 
 ### The challenge
